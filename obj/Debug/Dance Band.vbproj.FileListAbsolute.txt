@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter8\Dance Band\bin\Debug\Dance Band.exe.config
+C:\School\CSC-139\Chapter8\Dance Band\bin\Debug\Dance Band.exe
+C:\School\CSC-139\Chapter8\Dance Band\bin\Debug\Dance Band.pdb
+C:\School\CSC-139\Chapter8\Dance Band\bin\Debug\Dance Band.xml
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance_Band.frmMain.resources
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance_Band.Resources.resources
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance Band.exe
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance Band.xml
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance Band.pdb
+C:\School\CSC-139\Chapter8\Dance Band\obj\Debug\Dance_Band.frmSongSet.resources
